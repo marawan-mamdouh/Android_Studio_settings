@@ -1,0 +1,19 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
+  <action id="ExternalSystem_7035e983AndroidStudioProjectsbfd4b937clean">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="UpdateRunningApplication" />
+  <action id="ViewMainMenu">
+    <keyboard-shortcut first-keystroke="ctrl pause" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+</keymap>
